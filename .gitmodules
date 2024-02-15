@@ -1,0 +1,3 @@
+[submodule "palabos"]
+	path = palabos
+	url = https://gitlab.com/unigespc/palabos.git
